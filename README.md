@@ -1,6 +1,6 @@
 # T03 The Ultimate Best (Paired Assignment)
 
-Di kampus, aplikasi **Juragan Buku** besutan Ucok dan Butet mulai mendapatkan perhatian. Rekan-rekan mereka sudah mulai menggunakan aplikasi tersebut untuk mendapatkan buku terbaik. Biasanya, rekan-rekan Ucok dan Butet hanya memperhatikan rating dari buku sebagai acuan rekomendasi. Minggu lalu, fitur informasi diskon diluncurkan dan menjadi alternatif dalam memilih buku. Dengan fitur tersebut, semakin banyak mahasiswa tertarik untuk menggunakan aplikasi tersebut.
+Dikampus, aplikasi **Juragan Buku** besutan Ucok dan Butet mulai mendapatkan perhatian. Rekan-rekan mereka sudah mulai menggunakan aplikasi tersebut untuk mendapatkan buku terbaik. Biasanya, rekan-rekan Ucok dan Butet hanya memperhatikan rating dari buku sebagai acuan rekomendasi. Minggu lalu, fitur informasi diskon diluncurkan dan menjadi alternatif dalam memilih buku. Dengan fitur tersebut, semakin banyak mahasiswa tertarik untuk menggunakan aplikasi tersebut.
 
 Siang tadi, pada saat makan siang di kantin, Tiur dan Butet sedang berbincang singkat sambil menunggu jam masuk kuliah. Dalam pembicaraan tersebut Tiur memuji kemanfaatan aplikasi yang Butet telah kembangkan. Secara tidak sengaja Tiur nyeletuk "buku terbaik tuh yang ratingnya tinggi dan diskonnya maksimal." Butet tersentak dan langsung terinpirasi dengan **feature request** Tiur. Dalam waktu singkat, Butet langsung berterima kasih atas celetukan Tiur dan pergi mencari Ucok.
 
